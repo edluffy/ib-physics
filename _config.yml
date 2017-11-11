@@ -1,10 +1,3 @@
 theme: jekyll-theme-modernist
 markdown: kramdown
 mathjax: true
-defaults:
- -
-  scope:
-   path: ""
-   type: "pages"
-  values:
-   layout: "default"
