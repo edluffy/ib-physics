@@ -1,3 +1,9 @@
 theme: jekyll-theme-modernist
 markdown: kramdown
 mathjax: true
+defaults:
+          -
+              scope:
+                            path: ""
+                                values:
+                                              layout: "default"
