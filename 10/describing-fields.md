@@ -27,7 +27,7 @@ Each object with mass has a gravitational field around it, which acts on other o
 - Unlike with electric fields, gravity is an **attractive** force, *repulsion* between objects with mass is never observed.
 
 Gravitational field strength is equal to = 
-> $${force acting on test mass} | {magnitude of test mass}$$
+> $$\frac{force acting on test mass}{magnitude of test mass}$$
 
 The direction of field strength is always towards the mass that gives rise to the field
 The unit of gravitational field strength is $$N{kg}^{-1}$$.
