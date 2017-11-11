@@ -32,7 +32,7 @@
 > Diagram 7
 - This is in the form of exponential decay
 ### Time constant
-- The term CR is used frequently in capacitor circuits and is called the time constant $tau$, $tau = RC$
+- The term CR is used frequently in capacitor circuits and is called the time constant $$tau$$, $$tau = RC$$
 - Theoretically the charge on the plates never becomes zero as it decays exponentially. Therefore we take the time it decaus to $t = RC
 > Definition of the time constant. The time constant is defined in a particular way, considering the discharging of a capacitor starting at potential difference v 0
 > Diagram 8
