@@ -1,3 +1,5 @@
+mathjax:true
+
 # Capacitance
 ## Capacitors
 - Capacitors store charge
